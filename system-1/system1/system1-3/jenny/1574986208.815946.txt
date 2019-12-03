@@ -1,0 +1,22 @@
+Time Elapsed: 109.32292699813843
+Number of Key Strokes: 19
+j
+ 
+ 
+;
+k
+j
+ 
+ 
+ 
+j
+;
+j
+k
+ 
+;
+k
+k
+;
+;
+

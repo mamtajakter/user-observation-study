@@ -1,0 +1,11 @@
+Time Elapsed: 34.640280961990356
+Number of Key Strokes: 8
+j
+ 
+j
+k
+k
+ 
+;
+;
+
